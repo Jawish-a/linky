@@ -46,13 +46,13 @@ export function EditForm({
     >
       {({ isSubmitting, setFieldValue, errors, values }) => {
         const initialUploadedIcon = !initialValues?.icon?.src.startsWith(
-          'https://cdn.lin.ky/default-data'
+          'https://cdn.onelynk.sa/default-data'
         )
           ? initialValues?.icon?.src
           : undefined;
 
         const initialTab = values?.icon?.src?.startsWith(
-          'https://cdn.lin.ky/default-data'
+          'https://cdn.onelynk.sa/default-data'
         )
           ? 'iconGallery'
           : 'uploadCustom';

@@ -23,7 +23,7 @@ const WelcomeEmail = () => (
           <EmailHeader
             title="Welcome to Linky"
             subtitle="The delightfully rich link-in-bio"
-            imageUrl="https://cdn.lin.ky/email-assets/welcome-header.png"
+            imageUrl="https://cdn.onelynk.sa/email-assets/welcome-header.png"
             imageAlt="Welcome to Linky"
           />
 
@@ -43,7 +43,7 @@ const WelcomeEmail = () => (
 
             <ul style={styles.list}>
               <li style={styles.listItem}>
-                <Link href="https://lin.ky/edit" style={styles.link}>
+                <Link href="https://onelynk.sa/edit" style={styles.link}>
                   Setup your first page
                 </Link>
               </li>

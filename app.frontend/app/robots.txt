@@ -4,4 +4,4 @@ Disallow: /api/
 Disallow: /_next
 
 
-Sitemap: https://lin.ky/sitemap.xml
+Sitemap: https://onelynk.sa/sitemap.xml

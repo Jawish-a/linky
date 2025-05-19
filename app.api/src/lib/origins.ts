@@ -1,9 +1,9 @@
 export const trustedOrigins =
   process.env.NODE_ENV === 'production'
     ? [
-        'https://lin.ky',
-        'https://www.lin.ky',
-        'https://admin.lin.ky',
+        'https://onelynk.sa',
+        'https://www.onelynk.sa',
+        'https://admin.onelynk.sa',
         'https://glow.as',
         'https://www.glow.as',
         'https://admin.glow.as',

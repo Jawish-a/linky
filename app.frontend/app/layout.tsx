@@ -18,15 +18,15 @@ export const metadata: Metadata = {
   title: 'Linky - A delightfully rich link-in-bio.',
   description:
     'Create your own dynamic link in bio page effortlessly with Linky, the personal page builder designed to help you stand out and connect with your audience.',
-  metadataBase: new URL('https://lin.ky'),
+  metadataBase: new URL('https://onelynk.sa'),
   openGraph: {
     images: [
       {
-        url: 'https://lin.ky/assets/og.png',
+        url: 'https://onelynk.sa/assets/og.png',
       },
     ],
     type: 'website',
-    url: 'https://lin.ky',
+    url: 'https://onelynk.sa',
     title: 'Linky',
     description:
       'Create your own dynamic link in bio page effortlessly with Linky, the personal page builder designed to help you stand out and connect with your audience.',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@trylinky',
     creator: '@trylinky',
-    images: 'https://lin.ky/assets/og.png',
+    images: 'https://onelynk.sa/assets/og.png',
   },
 };
 

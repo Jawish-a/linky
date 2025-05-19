@@ -12,17 +12,17 @@ import * as React from 'react';
 const socialLinks: SocialLink[] = [
   {
     href: 'https://x.com/trylinky',
-    icon: 'https://cdn.lin.ky/email-assets/icons/x.png',
+    icon: 'https://cdn.onelynk.sa/email-assets/icons/x.png',
     alt: 'Twitter',
   },
   {
     href: 'https://instagram.com/trylinky',
-    icon: 'https://cdn.lin.ky/email-assets/icons/instagram.png',
+    icon: 'https://cdn.onelynk.sa/email-assets/icons/instagram.png',
     alt: 'Instagram',
   },
   {
     href: 'https://linkedin.com/company/trylinky',
-    icon: 'https://cdn.lin.ky/email-assets/icons/linkedin.png',
+    icon: 'https://cdn.onelynk.sa/email-assets/icons/linkedin.png',
     alt: 'LinkedIn',
   },
 ];
