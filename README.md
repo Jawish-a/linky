@@ -1,4 +1,4 @@
-<a href="https://lin.ky">
+<a href="https://onelynk.sa">
   <img alt="Linky - The open-source dynamic personal page builder" src=".github/cover.png">
 </a>
 

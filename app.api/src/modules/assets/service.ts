@@ -108,8 +108,8 @@ export async function uploadAsset({
     if (isComplete(webpUpload) && isComplete(pngUpload)) {
       const fileLocation =
         process.env.APP_ENV === 'development'
-          ? `https://cdn.dev.lin.ky/${webpUpload.Key}`
-          : `https://cdn.lin.ky/${webpUpload.Key}`;
+          ? `https://cdn.dev.onelynk.sa/${webpUpload.Key}`
+          : `https://cdn.onelynk.sa/${webpUpload.Key}`;
 
       return {
         data: {

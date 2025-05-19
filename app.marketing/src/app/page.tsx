@@ -81,7 +81,7 @@ export default async function LandingPage() {
                 )}
               >
                 <div className="w-full inline-flex flex-row items-center rounded-full bg-white pl-4 border border-slate-200 shadow-sm justify-center">
-                  <span className="text-slate-600 font-medium">lin.ky/</span>
+                  <span className="text-slate-600 font-medium">onelynk.sa/</span>
                   <input
                     type="text"
                     placeholder="name"
@@ -123,28 +123,28 @@ export default async function LandingPage() {
                     width={28}
                     height={28}
                     className="inline-block h-7 w-7 rounded-full ring-2 ring-[##ebc7e2]"
-                    src="https://cdn.lin.ky/block-4cc796c0-018b-46e7-af22-77e3ac421882/32b1a2eb-2a3f-4133-aee2-9b016bc38cc8"
+                    src="https://cdn.onelynk.sa/block-4cc796c0-018b-46e7-af22-77e3ac421882/32b1a2eb-2a3f-4133-aee2-9b016bc38cc8"
                     alt=""
                   />
                   <Image
                     width={28}
                     height={28}
                     className="inline-block h-7 w-7 rounded-full ring-2 ring-[##ebc7e2]"
-                    src="https://cdn.lin.ky/666b7445-c171-4ad7-a21d-eb1954b7bd40/0885d7ec-9af4-4430-94f4-ad1a033c2704"
+                    src="https://cdn.onelynk.sa/666b7445-c171-4ad7-a21d-eb1954b7bd40/0885d7ec-9af4-4430-94f4-ad1a033c2704"
                     alt=""
                   />
                   <Image
                     width={28}
                     height={28}
                     className="inline-block h-7 w-7 rounded-full ring-2 ring-[##ebc7e2]"
-                    src="https://cdn.lin.ky/block-bda8e51a-9566-4fc0-88b8-0110937688b7/3155a632-e053-4c41-9d9e-a4092e98bcaf"
+                    src="https://cdn.onelynk.sa/block-bda8e51a-9566-4fc0-88b8-0110937688b7/3155a632-e053-4c41-9d9e-a4092e98bcaf"
                     alt=""
                   />
                   <Image
                     width={28}
                     height={28}
                     className="inline-block h-7 w-7 rounded-full ring-2 ring-[##ebc7e2]"
-                    src="https://cdn.lin.ky/block-9077b37e-2c6c-4457-aa30-13f44f38ec15/76af84b5-0e47-41fc-852b-458020c75d71"
+                    src="https://cdn.onelynk.sa/block-9077b37e-2c6c-4457-aa30-13f44f38ec15/76af84b5-0e47-41fc-852b-458020c75d71"
                     alt=""
                   />
                 </div>

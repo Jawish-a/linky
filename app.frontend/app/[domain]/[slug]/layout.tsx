@@ -108,7 +108,7 @@ export default async function PageLayout(props: {
 
             <div className="w-full py-3 flex items-center justify-center">
               <Link
-                href={`https://lin.ky/?utm_source=page_footer&utm_campaign=${page.slug}`}
+                href={`https://onelynk.sa/?utm_source=page_footer&utm_campaign=${page.slug}`}
                 className="flex flex-col text-center justify-center"
               >
                 <span className="uppercase text-[0.6rem] tracking-tight font-medium text-sys-title-secondary">

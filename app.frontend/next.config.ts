@@ -58,12 +58,12 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'cdn.dev.lin.ky',
+        hostname: 'cdn.dev.onelynk.sa',
         port: '',
       },
       {
         protocol: 'https',
-        hostname: 'cdn.lin.ky',
+        hostname: 'cdn.onelynk.sa',
         port: '',
       },
     ],

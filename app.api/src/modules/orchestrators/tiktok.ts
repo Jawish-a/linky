@@ -125,7 +125,7 @@ const createStackBlock = async ({ pageId }: { pageId: string }) => {
           items: [
             {
               icon: {
-                src: 'https://cdn.lin.ky/default-data/icons/instagram.svg',
+                src: 'https://cdn.onelynk.sa/default-data/icons/instagram.svg',
               },
               link: 'https://instagram.com',
               label: '@yourinstagramhandle',
@@ -133,7 +133,7 @@ const createStackBlock = async ({ pageId }: { pageId: string }) => {
             },
             {
               icon: {
-                src: 'https://cdn.lin.ky/default-data/icons/twitter.svg',
+                src: 'https://cdn.onelynk.sa/default-data/icons/twitter.svg',
               },
               link: 'https://x.com',
               label: '@yourxhandle',
@@ -141,7 +141,7 @@ const createStackBlock = async ({ pageId }: { pageId: string }) => {
             },
             {
               icon: {
-                src: 'https://cdn.lin.ky/default-data/icons/youtube.svg',
+                src: 'https://cdn.onelynk.sa/default-data/icons/youtube.svg',
               },
               link: 'https://youtube.com',
               label: '@youryoutubechannel',
